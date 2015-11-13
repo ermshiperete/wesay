@@ -16,7 +16,7 @@ using Autofac;
 using Autofac.Builder;
 using Autofac.Core;
 using Chorus;
-using Chorus.FileTypeHanders.lift;
+using Chorus.FileTypeHandlers.lift;
 using Chorus.UI.Notes;
 using Chorus.sync;
 using Chorus.UI.Notes.Bar;
